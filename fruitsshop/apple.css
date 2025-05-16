@@ -1,0 +1,182 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+     width: 100%;
+     height: 100px;
+     background-color:white;
+     color:black;
+}
+.logo {
+    padding:10px;
+    display: flex;
+}
+.logo i {
+    font-size: xx-large;
+    color: red;
+}
+.logo3 {
+    margin-left: 10px;
+    color: blue;
+    margin-top: -20px;
+}
+.right_menu ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+    font-size: x-large;
+}
+.main_page {
+     display: flex;
+     justify-content: space-around;
+     background-color: rgb(34, 36, 49);
+     color: white;
+     font-size: xx-large;
+}
+.main_page h1 {
+    color: rgb(29, 133, 174);
+    font-weight: bold;
+    margin-left: 20px;
+    font-size: 80px;
+}
+button {
+    margin: 20px;
+    padding: 20px 40px 20px 40px;
+    font-size:large;
+    background-color:rgb(34, 36, 49);
+    color: white;
+    margin-left: 10%;
+}
+button:hover {
+    background-color: rgb(72, 72, 155);
+}
+.about {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.about_page {
+    font-size: x-large;
+    font-weight: lighter;
+}
+.our_page {
+    width: 900px;
+    background-color:rgb(34, 36, 49) ;
+    text-align: center;
+    color: white;
+    padding-top:20px ;
+    font-size: x-large;
+}
+ .our img {
+    margin: 20px;
+    width: 300px;
+ }
+ .our {
+    display: flex;
+    justify-content: left;
+    padding: 30px;
+ }
+.name ul li {
+    list-style: none;
+    display: inline-block;
+    justify-content: space-around;
+    margin: 80px;
+    color: white;
+    font-size: x-large;
+    margin-top: -60px;
+}
+.lemon {
+    display:flex;
+     justify-content: space-between;
+
+}
+.lemon1 h1{
+   color: skyblue;
+   font-size: 90px;
+   margin: 10px;
+}
+.lemon1 p {
+    padding: 20px;
+    font-size: 20px;
+}
+.our_blog {
+    text-align: center;
+    background-color: rgb(34, 36, 49);
+    color: white;
+    font-size: x-large;
+    padding: 40px;
+}
+
+.blog {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.box {
+    background-color:skyblue;
+}
+.box p {
+     color: black;
+}
+.info {
+    background-image: url("./image/fruit_img.png");
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    text-align: right;
+    font-size: 30px;
+}
+.information input {
+    padding: 20px 90px 20px 90px;
+    margin: 20px;
+    background-color: rgb(34, 36, 49);
+    color: white;
+    font-size: xx-large;
+}
+.button2 {
+    background-color: rgb(39, 154, 200);
+    border: 2px solid white;
+    color: black;
+    margin-right: 30%;
+}
+.button2:hover {
+    background-color:rgb(86, 86, 166);
+    color: white;
+    
+}
+.right_menu ul li:hover {
+    color: skyblue;
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+    background-color:rgb(34, 36, 49);
+    color: white;
+    font-size: x-large;
+}
+.footer2 ul li {
+    list-style: none;
+    margin: 10px;
+}
+.footer2 ul li:hover {
+    color: skyblue;
+}
+.footer5 input {
+    padding: 20px;
+    font-size: large;
+}
+.button3 {
+    background-color: skyblue;
+    border:2px solid rgb(34, 36, 49);
+    color: rgb(34, 36, 49);
+    margin-right: 10px;
+    padding: 10px 20px 10px 20px;
+    
+}
+.foot {
+    background-color:rgb(47, 104, 108) ;
+    height: 40px;
+    color: white;
+    font-size:x-large;
+    text-align: center;
+    margin-top: -40px;
+}
